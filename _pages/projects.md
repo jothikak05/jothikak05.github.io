@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "Projects"
 permalink: /projecs/
