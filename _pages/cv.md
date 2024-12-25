@@ -1,10 +1,5 @@
 ---
-layout: archive
-title: "[CV](files/CV_Jothika_Kumar.pdf)"
+layout: none
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+redirect_to: /files/CV_Jothika_Kumar.pdf)
 ---
-
-{% include base_path %}
