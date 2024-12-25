@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](files/CV_Jothika_Kumar.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<a href="/files/CV_Jothika_Kumar.pdf" target="_blank"></a>
