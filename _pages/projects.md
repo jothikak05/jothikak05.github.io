@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Analysis of Thermal protection system of reusable launch vehicles
+## Analysis of Thermal protection system of reusable launch vehicles (2023)
 
  At the Institute of Structural Mechanics and Lightweight Design, I performed thermal simulations in
  OpenFOAM for a composite of PCM and lattice structure sample by varying heating orientation, cell size, and
