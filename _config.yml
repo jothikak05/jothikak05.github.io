@@ -15,11 +15,6 @@ description              : &description "Master's Student at TU Delft"
 url                      : https://jothikak05.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jothikak05/jothikak05.github.io"
-comments:
-  facebook:
-    appid:
-    num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
