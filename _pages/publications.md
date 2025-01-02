@@ -5,4 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here are my publications
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
