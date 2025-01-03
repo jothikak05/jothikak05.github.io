@@ -13,7 +13,6 @@ author_profile: true
         <img src="{{ project.image }}" alt="{{ project.title }}" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid #ccc;">
         <div style="padding: 15px;">
           <h3 style="font-size: 18px; margin: 0;">{{ project.title }}</h3>
-          <p style="font-size: 14px; color: #555;">{{ project.excerpt | strip_html | truncatewords: 20 }}</p>
         </div>
       </a>
     </div>
