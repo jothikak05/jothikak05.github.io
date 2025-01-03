@@ -27,6 +27,6 @@ Authors: T Chockalingam, S Savar, **K Jothika**, P Prahlad, M Nitteesh, R Raghur
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 15px;">
   <div style="padding: 3px 9px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">
-    <a href="https://www.researchgate.net/profile/Nitteesh-M/publication/373202301_Albatross_Unmanned_self-sustainable_glider_for_forest_fire_detection/links/64e16845caf5ff5cd0c76aa7/Albatross-Unmanned-self-sustainable-glider-for-forest-fire-detection.pdf" target="_blank">PDF</a>
+    <a href="https://drive.google.com/file/d/13BOxn9t2oBNZ6ndPMs4mUTABepxf7QAQ/view?usp=sharing" target="_blank">PDF</a>
   </div>
 </div>
