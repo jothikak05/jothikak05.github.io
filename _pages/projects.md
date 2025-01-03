@@ -44,21 +44,7 @@ I worked on a summer research internship at RWTH Aachen University, Germany in t
 </div>
 
 <hr style="margin-top: 20px; border: 1px solid #ddd;">
-## Amphibian Aircraft
-
-As part of my research internship at IIT Bombay, I worked on Design and Analysis of Amphibian Aircraft. Carried out an extensive literature review on amphibian systems that can take off and land on both water and land and traverse underwater.Led a team of six students working on design, analysis, propulsion, control, and communication aspects. Designed CAD model of telescopic wing with a retracting mechanism for various wing planforms in SOLIDWORKS. Modeled an fuselage integrated with a one-step hull design and performed structural analysis in ANSYS.
-
-<div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 15px;">
-  <div style="padding: 3px 9px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">
-    SOLIDWORKS
-  </div>
-  <div style="padding: 3px 9px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">
-    ANSYS
-  </div>
-</div>
-
-<hr style="margin-top: 20px; border: 1px solid #ddd;">
-###  Cyclocopter Bin
+## Cyclocopter Bin (2023)
 
 Engineered a waste collection drone with four cyclorotors, utilizing image processing techniques to map regions of high floating waste and remove it from the surface water effectively. Designed a detailed CAD assembly of the cyclocopter and executed CFD analysis in ANSYS Fluent to assess the flow-lift and drag attributes. Fabricated the model and successfully tested the cyclorotor technology with 3D-printed materials, resulting in desirable outcomes.
 
@@ -75,7 +61,7 @@ Engineered a waste collection drone with four cyclorotors, utilizing image proce
 </div>
 
 <hr style="margin-top: 20px; border: 1px solid #ddd;">
-## Multirotor Drone
+## Multirotor Drone (2022)
 Developed a quadcopter with targeted payload delivery capabilities and integrated image processing for advanced surveillance applications. Designed drone CAD model with Hybrid X frame in SOLIDWORKS; conducted topology optimization; performed structural analysis in ANSYS. Fabricated the drone using a carbon fibre-balsa composite structure using the vacuum bagging technique and successfully tested it. Secured 10th position nationwide in the Phase-1 design round of the SAE Aerothon ’22 competition.
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 15px;">
@@ -94,7 +80,21 @@ Developed a quadcopter with targeted payload delivery capabilities and integrate
 </div>
 
 <hr style="margin-top: 20px; border: 1px solid #ddd;">
-## Albatross
+## Amphibian Aircraft (2022)
+
+As part of my research internship at IIT Bombay, I worked on Design and Analysis of Amphibian Aircraft. Carried out an extensive literature review on amphibian systems that can take off and land on both water and land and traverse underwater.Led a team of six students working on design, analysis, propulsion, control, and communication aspects. Designed CAD model of telescopic wing with a retracting mechanism for various wing planforms in SOLIDWORKS. Modeled an fuselage integrated with a one-step hull design and performed structural analysis in ANSYS.
+
+<div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 15px;">
+  <div style="padding: 3px 9px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">
+    SOLIDWORKS
+  </div>
+  <div style="padding: 3px 9px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">
+    ANSYS
+  </div>
+</div>
+
+<hr style="margin-top: 20px; border: 1px solid #ddd;">
+## Albatross (2021)
 
 Developed a self-sustainable, efficient glider that detects forest fires using image processing and alerts base station. Spearheaded a six-membered team and worked on the CAD Model of the wing and curved fuselage, fabrication of the plane and successfully published as a research article in AIP Conference Proceedings.
 <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 15px;">
@@ -113,6 +113,6 @@ Developed a self-sustainable, efficient glider that detects forest fires using i
 </div>
 
 <hr style="margin-top: 20px; border: 1px solid #ddd;">
-## Observational Astronomy: Geometry of Planetary motions and Plotting Solar Analemma
+## Observational Astronomy: Geometry of Planetary motions and Plotting Solar Analemma (2019)
 
 Measured size and relative distances between celestial bodies using geometry. Observed and plotted the solar analemma using Wolfram Mathematica software
