@@ -212,7 +212,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  projects:
+    output: true
+    permalink: /projects/:name/
 
 # Defaults
 defaults:
