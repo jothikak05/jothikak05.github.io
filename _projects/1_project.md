@@ -3,7 +3,7 @@ layout: single
 title: "Flexible Heat Pipe for Space Applications"
 permalink: /projects/1_project/
 author_profile: true
-image: "/images/placeholder.png"
+image: "/images/placeholder1.png"
 ---
 
 ### Overview

@@ -3,7 +3,7 @@ layout: single
 title: "Albatross"
 permalink: /projects/6_project/
 author_profile: true
-image: "/assets/images/albatross.jpg"
+image: "/images/placeholder6.png"
 ---
 
 ### Overview

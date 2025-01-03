@@ -1,9 +1,9 @@
 ---
 layout: single
 title: "Multirotor Drone"
-permalink: /projects/3_project/
+permalink: /projects/4_project/
 author_profile: true
-image: "/assets/images/multirotor-drone.jpg"
+image: "/images/placeholder4.png"
 ---
 
 ### Overview
