@@ -301,6 +301,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+pagination:
+  enabled: false
 
 # Archives
 #  Type
