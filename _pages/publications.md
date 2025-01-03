@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+## Autonomous Multi-Rotor UAVs: A Holistic Approach to Design, Optimization, and Fabrication 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+# Presented at the International Conference on Advances in Mechanical and Aerospace Engineering (ICAMAE), 2023.  
