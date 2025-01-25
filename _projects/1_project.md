@@ -7,7 +7,7 @@ image: "/images/thumbnail_1.png"
 ---
 
 ### Overview
-As part of my bachelor's thesis, I worked on experimental and numerical modeling of **Flexible Heat Pipes for Space Applications.**
+As part of my bachelor's thesis, I worked on experimental and numerical modeling of Flexible Heat Pipes for Space Applications.
 
 <p><b>Abstract:</b><br>
 Heat pipes are pivotal in high-efficiency heat transmission applications, especially where compactness is vital, such as in space environments. These devices are essentially sealed tubes with interior surfaces lined with a porous capillary wick, utilizing the phase change phenomenon and capillary action to transport heat effectively. 
@@ -16,7 +16,7 @@ This research focuses on the numerical modeling and experimental validation of f
 
 A critical aspect of the research involves assessing the impact of bending the pipes at different angles (0°, 30°, 60°, and 90°) with varying water infill capacities (10%, 30%, and 50%) and with power ranges of 25W to 250W to understand performance dynamics and enhance flexibility. Experimental setups include a heating block, a condenser unit, and an adiabatic section, with steady-state temperature measurements providing data for thermal conductivity and resistance calculations.
 
-Numerically, the system components, including the aluminum rod heat source and cooling block cold water flow, were modeled and analyzed in **ANSYS FLUENT** using multiphase Volume of Fluid (VOF) and Lee models for mass transfer. Upon analysis, the model successfully captured boiling and condensation phenomena in the thermosyphon, capillary action in a porous wick, and the combined effects in the entire heat pipe setup, paving the way for potential zero-gravity applications. Results from numerical simulations closely matched the experimental trends with a 17% difference, demonstrating a reduction in thermal conductivity with increasing bending angles. This research highlights the potential for optimizing heat pipe performance for space applications, where efficiency and compact design are paramount.
+Numerically, the system components, including the aluminum rod heat source and cooling block cold water flow, were modeled and analyzed in ANSYS FLUENT using multiphase Volume of Fluid (VOF) and Lee models for mass transfer. Upon analysis, the model successfully captured boiling and condensation phenomena in the thermosyphon, capillary action in a porous wick, and the combined effects in the entire heat pipe setup, paving the way for potential zero-gravity applications. Results from numerical simulations closely matched the experimental trends with a 17% difference, demonstrating a reduction in thermal conductivity with increasing bending angles. This research highlights the potential for optimizing heat pipe performance for space applications, where efficiency and compact design are paramount.
 </p>
 
 <div style="text-align: center; margin: 20px 0;">
@@ -27,17 +27,10 @@ Numerically, the system components, including the aluminum rod heat source and c
 </div>
 
 ### Tools/Skills
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px; justify-content: center;">
-  <span style="background-color: #e6f7ff; color: #0056b3; padding: 10px 15px; border-radius: 12px; font-size: 14px; font-weight: bold; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    ANSYS FLUENT
-  </span>
-  <span style="background-color: #e6f7ff; color: #0056b3; padding: 10px 15px; border-radius: 12px; font-size: 14px; font-weight: bold; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    Abaqus
-  </span>
-  <span style="background-color: #e6f7ff; color: #0056b3; padding: 10px 15px; border-radius: 12px; font-size: 14px; font-weight: bold; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    Python
-  </span>
-  <span style="background-color: #e6f7ff; color: #0056b3; padding: 10px 15px; border-radius: 12px; font-size: 14px; font-weight: bold; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    MS Office
-  </span>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <span style="color: rgb(4, 58, 115); font-size: 14px; font-weight: bold;">ANSYS FLUENT</span>
+  <span style="color: rgb(4, 58, 115); font-size: 14px; font-weight: bold;">Abaqus</span>
+  <span style="color: rgb(4, 58, 115); font-size: 14px; font-weight: bold;">Python</span>
+  <span style="color: rgb(4, 58, 115); font-size: 14px; font-weight: bold;">MS Office</span>
 </div>
+
