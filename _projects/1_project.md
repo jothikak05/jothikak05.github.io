@@ -28,9 +28,9 @@ Numerically, the system components, including the aluminum rod heat source and c
 
 ### Tools/Skills
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-  <span style="color: rgb(4, 58, 115); font-size: 14px; font-weight: bold;">ANSYS FLUENT</span>
-  <span style="color: rgb(4, 58, 115); font-size: 14px; font-weight: bold;">Abaqus</span>
-  <span style="color: rgb(4, 58, 115); font-size: 14px; font-weight: bold;">Python</span>
-  <span style="color: rgb(4, 58, 115); font-size: 14px; font-weight: bold;">MS Office</span>
+  <span style="background-color: #e6f7ff; color: rgb(4, 58, 115); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">ANSYS FLUENT</span>
+  <span style="background-color: #e6f7ff; color: rgb(4, 58, 115); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">Abaqus</span>
+  <span style="background-color: #e6f7ff; color: rgb(4, 58, 115); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">Python</span>
+  <span style="background-color: #e6f7ff; color: rgb(4, 58, 115); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">MS Office</span>
 </div>
 
