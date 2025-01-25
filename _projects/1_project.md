@@ -7,6 +7,7 @@ image: "/images/thumbnail_1.png"
 ---
 
 ### Overview
+<div style="text-align: justify;">
 As part of my bachelor's thesis, I worked on experimental and numerical modeling of Flexible Heat Pipes for Space Applications.
 
 <p><b>Abstract:</b><br>
