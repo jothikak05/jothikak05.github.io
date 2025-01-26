@@ -17,7 +17,7 @@ Engineered an innovative waste collection drone featuring four cyclorotors, desi
   </p>
 </div>
 
-### Tools/Skills
+<h3>Tools/Skills</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">SOLIDWORKS</span>
   <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">ANSYS</span>

@@ -3,15 +3,16 @@ layout: single
 title: "Amphibian Aircraft"
 permalink: /projects/5_projectt/
 author_profile: true
-image: "/images/placeholder5.png"
+image: "/images/Amphi.png"
 ---
 
 ### Overview
-As part of my research internship at IIT Bombay, I worked on Design and Analysis of Amphibian Aircraft. Carried out an extensive literature review on amphibian systems that can take off and land on both water and land and traverse underwater. Led a team of six students working on design, analysis, propulsion, control, and communication aspects.
+As part of my research internship at IIT Bombay, I worked on Design and Analysis of Amphibian Aircraft. Carried out an extensive literature review on amphibian systems that can take off and land on both water and land. Designed CAD model of telescopic wing with a retracting mechanism for various wing planforms in SOLIDWORKS. Modeled an fuselage integrated with a one-step hull design and performed structural analysis in ANSYS.
 
-### Tools/Skills
-<div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 15px;">
-  <div style="padding: 3px 9px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">SOLIDWORKS</div>
-  <div style="padding: 3px 9px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">ANSYS</div>
+<h3>Tools/Skills</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <span style="background-color: rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">XFLR5</span>
+  <span style="background-color: rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">SOLIDWORKS</span>
+  <span style="background-color: rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">ANSYS</span>
 </div>
 
