@@ -5,7 +5,7 @@ permalink: /projects/2_project/
 author_profile: true
 image: "/images/strut.png"
 ---
-
+<br>
 <div style="text-align: justify;">
 During the summer research internship at the Institute of Structural Mechanics and Lightweight Design in RWTH Aachen University, Germany, I worked on developing a thermal protection system for re-entry vehicles, focusing on natural convection heat transfer simulations. This was fully funded by DAAD Wise Scholarship in 2023.  
 
@@ -16,7 +16,7 @@ With the rapid advancement in space industry, the utilization of reusable launch
 
 <div style="text-align: center;">
   <img src="/images/placeholder.png" alt="Thermal Simulation Results" style="max-width: 70%;  border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <p style="font-size: 0.9em; color: #555; margin-top: 10px;"> Figure: Melting front and convection cells- bottom orientation</p>
+  <p style="font-size: 0.9em; color: #555; margin-top: 10px;"> Melting front and convection cells- bottom orientation</p>
 </div>
 
 ### Tools/Skills

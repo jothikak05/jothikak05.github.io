@@ -25,7 +25,7 @@ Numerically, the system components, including the aluminum rod heat source and c
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/Heatpipe.png" alt="Heat Pipe Vapor Phase Volume Fraction" style="max-width: 70%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <p style="font-size: 0.9em; color: #555; margin-top: 10px;">
-    Figure: Volume fraction of the vapor phase in the heat pipe, highlighting boiling, condensation, and capillary action.
+    Volume fraction of the vapor phase in the heat pipe, highlighting boiling, condensation, and capillary action
   </p>
 </div>
 
