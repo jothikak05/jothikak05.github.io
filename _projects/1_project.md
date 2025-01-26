@@ -10,6 +10,8 @@ image: "/images/thumbnail_1.png"
 <div style="text-align: justify;">
 As part of my bachelor's thesis, I worked on experimental and numerical modeling of Flexible Heat Pipes for Space Applications.
 
+<br>
+
 <p><b>Abstract:</b><br>
 Heat pipes are pivotal in high-efficiency heat transmission applications, especially where compactness is vital, such as in space environments. These devices are essentially sealed tubes with interior surfaces lined with a porous capillary wick, utilizing the phase change phenomenon and capillary action to transport heat effectively. 
 
@@ -19,6 +21,7 @@ A critical aspect of the research involves assessing the impact of bending the p
 
 Numerically, the system components, including the aluminum rod heat source and cooling block cold water flow, were modeled and analyzed in ANSYS FLUENT using multiphase Volume of Fluid (VOF) and Lee models for mass transfer. Upon analysis, the model successfully captured boiling and condensation phenomena in the thermosyphon, capillary action in a porous wick, and the combined effects in the entire heat pipe setup, paving the way for potential zero-gravity applications. Results from numerical simulations closely matched the experimental trends with a 17% difference, demonstrating a reduction in thermal conductivity with increasing bending angles. This research highlights the potential for optimizing heat pipe performance for space applications, where efficiency and compact design are paramount.
 </p>
+</div>
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/Heatpipe.png" alt="Heat Pipe Vapor Phase Volume Fraction" style="max-width: 70%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
@@ -34,4 +37,3 @@ Numerically, the system components, including the aluminum rod heat source and c
   <span style="background-color:rgb(237, 245, 253); color: rgb(31, 85, 193); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">Python</span>
   <span style="background-color:rgb(237, 245, 253); color: rgb(31, 85, 193); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">MS Office</span>
 </div>
-

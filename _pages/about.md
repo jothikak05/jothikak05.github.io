@@ -21,7 +21,7 @@ redirect_from:
   </p>
 
   <p>
-    Beyond research, I express my creativity through <a href="https://www.instagram.com/jo_creations_/" style="color: rgb(31, 85, 193);">digital art</a>, performing Bharathanatyam (a classical Indian dance form), experimenting with cooking new cuisines, and traveling to new destinations to create memorable experiences.
+    Beyond research, I like to express my creativity through <a href="https://www.instagram.com/jo_creations_/" style="color: rgb(31, 85, 193);">digital art</a>, performing Bharathanatyam (a classical Indian dance form), experimenting with cooking new cuisines, and traveling to new destinations to embrace diverse experiences.
   </p>
 
   <p>
