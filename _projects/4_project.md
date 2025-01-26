@@ -12,13 +12,14 @@ Developed a quadcopter with targeted payload delivery capabilities and integrate
 
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/FinalDrone.jpeg" alt="Drone" style="max-width: 70%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="/images/FinalDrone.jpeg" alt="Drone" style="max-width: 50%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <p style="font-size: 0.9em; color: #555; margin-top: 10px;">
     Final fabricated drone
   </p>
 </div>
 
 ### Tools/Skills
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">SOLIDWORKS</span>
   <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">ANSYS</span>

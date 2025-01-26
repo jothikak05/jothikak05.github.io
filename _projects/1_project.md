@@ -5,7 +5,7 @@ permalink: /projects/1_project/
 author_profile: true
 image: "/images/flexible.png"
 ---
-
+<br>
 <div style="text-align: justify;margin-bottom: 30px;">
 As part of my bachelor's thesis, I worked on experimental and numerical modeling of Flexible Heat Pipes for Space Applications.
 
@@ -30,6 +30,7 @@ Numerically, the system components, including the aluminum rod heat source and c
 </div>
 
 ### Tools/Skills
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">ANSYS FLUENT</span>
   <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">Abaqus</span>
