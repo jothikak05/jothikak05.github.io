@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="text-align: justify;">
   <p>
-    I am currently a master's student pursuing Aerospace Engineering at Delft University of Technology, Netherlands, specializing in Aerospace Structures and Materials. My research interests lie in <span style="color: rgb(31, 85, 193); ">Computational Mechanics</span>, <span style="color: rgb(31, 85, 193); ">Composite Structures</span>, and <span style="color: rgb(31, 85, 193); ">Sustainable Aviation</span>. I am passionate about tackling challenges in these fields and contributing to innovative solutions in the aerospace industry.
+    I am currently a master's student pursuing Aerospace Engineering at Delft University of Technology, Netherlands, specializing in Aerospace Structures and Materials. My research interests lie in <span style="color: rgb(0, 166, 214); ">Computational Mechanics</span>, <span style="color: rgb(31, 85, 193); ">Composite Structures</span>, and <span style="color: rgb(31, 85, 193); ">Sustainable Aviation</span>. I am passionate about tackling challenges in these fields and contributing to innovative solutions in the aerospace industry.
   </p>
 
   <p>
