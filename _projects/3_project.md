@@ -3,16 +3,21 @@ layout: single
 title: "Cyclocopter Bin"
 permalink: /projects/3_project/
 author_profile: true
-image: "/images/placeholder3.png"
+image: "/images/Cyclorotor.jpg"
 ---
 
 ### Overview
-Engineered a waste collection drone with four cyclorotors, utilizing image processing techniques to map regions of high floating waste and remove it from the surface water effectively. Designed a detailed CAD assembly of the cyclocopter and executed CFD analysis in ANSYS Fluent to assess the flow-lift and drag attributes. Fabricated the model and successfully tested the cyclorotor technology with 3D-printed materials, resulting in desirable outcomes.
+Engineered an innovative waste collection drone featuring four cyclorotors, designed to efficiently remove floating waste from surface water utilizing image processing techniques to map regions with high waste density for targeted clean-up. Designed a detailed CAD assembly of the cyclocopter and executed CFD analysis in ANSYS Fluent to assess the flow-lift and drag attributes. Fabricated the cyclorotors and the waste collection system using 3D-printed materials and successfully tested the technology, achieving desirable outcomes. This project was presented at Sangam '23, the intra-collegiate technical competition, under the Energy and Environment domain.
 
-### Tools/Skills
-<div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 15px;">
-  <div style="padding: 3px 9px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">SOLIDWORKS</div>
-  <div style="padding: 3px 9px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">ANSYS</div>
-  <div style="padding: 3px 9px; font-size: 14px; border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">3D Printing</div>
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/Cyclo.png" alt="Heat Pipe Vapor Phase Volume Fraction" style="max-width: 70%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <p style="font-size: 0.9em; color: #555; margin-top: 10px;">
+    Figure: CAD Model of Cyclocopter Bin
+  </p>
 </div>
 
+### Tools/Skills
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">SOLIDWORKS</span>
+  <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">ANSYS</span>
+  <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">3D Printing</span>

@@ -3,10 +3,9 @@ layout: single
 title: "Flexible Heat Pipe for Space Applications"
 permalink: /projects/1_project/
 author_profile: true
-image: "/images/thumbnail_1.png"
+image: "/images/flexible.png"
 ---
-<br><br>
-
+<br>
 <div style="text-align: justify;">
 As part of my bachelor's thesis, I worked on experimental and numerical modeling of Flexible Heat Pipes for Space Applications.
 
