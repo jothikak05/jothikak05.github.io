@@ -6,11 +6,10 @@ author_profile: true
 image: "/images/thumbnail_1.png"
 ---
 
-### Overview
 <div style="text-align: justify;">
 As part of my bachelor's thesis, I worked on experimental and numerical modeling of Flexible Heat Pipes for Space Applications.
 
-<br>
+<br><br>
 
 <p><b>Abstract:</b><br>
 Heat pipes are pivotal in high-efficiency heat transmission applications, especially where compactness is vital, such as in space environments. These devices are essentially sealed tubes with interior surfaces lined with a porous capillary wick, utilizing the phase change phenomenon and capillary action to transport heat effectively. 
