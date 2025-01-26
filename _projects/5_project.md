@@ -7,6 +7,7 @@ image: "/images/Amphi.png"
 ---
 
 ### Overview
+<div style="text-align: justify;">
 As part of my research internship at IIT Bombay, I worked on Design and Analysis of Amphibian Aircraft. Carried out an extensive literature review on amphibian systems that can take off and land on both water and land. Designed CAD model of telescopic wing with a retracting mechanism for various wing planforms in SOLIDWORKS. Modeled an fuselage integrated with a one-step hull design and performed structural analysis in ANSYS.
 
 <h3>Tools/Skills</h3>
