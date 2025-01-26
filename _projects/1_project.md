@@ -5,8 +5,8 @@ permalink: /projects/1_project/
 author_profile: true
 image: "/images/flexible.png"
 ---
-<br>
-<div style="text-align: justify;">
+
+<div style="text-align: justify;margin-bottom: 10px;">
 As part of my bachelor's thesis, I worked on experimental and numerical modeling of Flexible Heat Pipes for Space Applications.
 
 <br><br>
