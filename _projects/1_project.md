@@ -6,7 +6,7 @@ author_profile: true
 image: "/images/flexible.png"
 ---
 
-<div style="text-align: justify;margin-bottom: 10px;">
+<div style="text-align: justify;margin-bottom: 30px;">
 As part of my bachelor's thesis, I worked on experimental and numerical modeling of Flexible Heat Pipes for Space Applications.
 
 <br><br>
