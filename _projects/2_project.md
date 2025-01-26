@@ -19,8 +19,7 @@ With the rapid advancement in space industry, the utilization of reusable launch
   <p style="font-size: 0.9em; color: #555; margin-top: 10px;"> Melting front and convection cells- bottom orientation</p>
 </div>
 
-### Tools/Skills
-
+<h3>Tools/Skills</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">OpenFOAM</span>
   <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">C++</span>
