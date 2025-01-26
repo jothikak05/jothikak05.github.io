@@ -26,4 +26,3 @@ With the rapid advancement in space industry, the utilization of reusable launch
   <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">Python</span>
   <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">Julia</span>
   <span style="background-color:rgb(239, 248, 255); color: rgb(5, 108, 168); font-size: 14px; font-weight: bold; padding: 8px 12px; border-radius: 8px;">ParaView</span>
-</div>
