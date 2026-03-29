@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="text-align: justify;">
   <p>
-    I am currently a master's student pursuing Aerospace Engineering at Delft University of Technology, Netherlands, specializing in Aerospace Structures and Materials. My research interests lie in <span style="color: rgb(5, 108, 168); ">Computational Mechanics</span>, <span style="color: rgb(5, 108, 168); ">Composite Structures</span>, and <span style="color: rgb(5, 108, 168); ">Sustainable Aviation</span>. I am passionate about tackling challenges in these fields and contributing to innovative solutions in the aerospace industry.
+    I am a master's student pursuing Aerospace Engineering at Delft University of Technology, Netherlands, specializing in Aerospace Structures and Materials. My domain of interests include <span style="color: rgb(5, 108, 168); ">Computational Mechanics</span>, <span style="color: rgb(5, 108, 168); ">Design, Analysis, Production and Testing of Composite Structures</span>, and <span style="color: rgb(5, 108, 168); ">Sustainable Aviation</span>. I am eager to contribute to what the aviation industry demands most: high-performance, production-ready design under strict mass, certification, and cost constraints, delivered quickly with engineering judgment.
   </p>
 
   <p>
@@ -21,10 +21,7 @@ redirect_from:
   </p>
 
   <p>
-    Beyond research, I like to express my creativity through <a href="https://www.instagram.com/jo_creations_/" style="color: rgb(5, 108, 168);">digital art</a>, performing Bharathanatyam (a classical Indian dance form), experimenting with cooking new cuisines, and traveling to new destinations to embrace diverse experiences.
+    I like to express my creativity through <a href="https://www.instagram.com/jo_creations_/" style="color: rgb(5, 108, 168);">digital art</a>, performing Bharathanatyam (a classical Indian dance form), reading books, experimenting with cooking new cuisines, and traveling to new destinations to embrace diverse experiences.
   </p>
 
-  <p>
-    I am always eager to learn, collaborate, and contribute meaningfully to advancements in the aerospace industry.
-  </p>
 </div>
